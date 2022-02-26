@@ -1,0 +1,211 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact and true relation, of the wonderful vvhirle-vvind, on Saturday, June the 2. about 4. of the clock in the afternoone at Worthington, and Worthington-Hall, and at Tongue, and some other places in the county of Leicester. As also, the terrible devastation that it made in beating downe many trees and houses, and with a sudden violence stripping naked many great okes, and plucking their barkes from their bodies; as also taking away a hive of bees, and great store of linnen, which could never since be heard of. Together with the miraculous mercy of God in preserving many men, women, and children, who were desperatly involved in that dreadfull danger. Very necessary to be read. Attested by Colonell Tho: Ragge, and Major Fran. Beniskin of Tongue, to whom the said hive of bees belonged; and by many thousands of others, whose names are too many to be here incerted.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74259</idno>
+            <idno type="STC">Thomason E1030_6</idno>
+            <idno type="STC">ESTC R208912</idno>
+            <idno type="EEBO-CITATION">99867830</idno>
+            <idno type="PROQUEST">99867830</idno>
+            <idno type="VID">168891</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74259)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168891)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 152:E1030[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact and true relation, of the wonderful vvhirle-vvind, on Saturday, June the 2. about 4. of the clock in the afternoone at Worthington, and Worthington-Hall, and at Tongue, and some other places in the county of Leicester. As also, the terrible devastation that it made in beating downe many trees and houses, and with a sudden violence stripping naked many great okes, and plucking their barkes from their bodies; as also taking away a hive of bees, and great store of linnen, which could never since be heard of. Together with the miraculous mercy of God in preserving many men, women, and children, who were desperatly involved in that dreadfull danger. Very necessary to be read. Attested by Colonell Tho: Ragge, and Major Fran. Beniskin of Tongue, to whom the said hive of bees belonged; and by many thousands of others, whose names are too many to be here incerted.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by T.F. for Fr. Coles, in the old Baily at the Lamb,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 25".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Windstorms --  England --  Leicester --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168891:1" rendition="simple:additions"/>
+            <p>AN Exact and true Relation, Of the wonderfull VVHIRLE-VVIND, on <hi>Saturday, June</hi> the 2. about 4. of the Clock in the Afternoone at <hi>Worthington,</hi> and <hi>Worthington</hi>-Hall, and at <hi>Tongue,</hi> and ſome other Places in the County of <hi>Leiceſter.</hi>
+            </p>
+            <p>AS ALSO, The terrible Devaſtation that it made in beating downe many Trees and Houſes, and with a ſudden vio<g ref="char:EOLhyphen"/>lence ſtripping naked many great Okes, and pluc<g ref="char:EOLhyphen"/>king their barkes from their Bodies; As alſo taking away a Hive of <hi>Bees,</hi> and great ſtore of <hi>Linnen,</hi> which could never ſince be heard of.</p>
+            <p>Together with the miraculous mercy of GOD preſer<g ref="char:EOLhyphen"/>ving many Men, Women, and Children, who were deſperatly involved in that dreadfull Danger.</p>
+            <p>Very neceſſary to be Read.</p>
+            <p>Atteſted by Colonell <hi>Tho: Ragge,</hi> and Major <hi>Fran. Beniskin</hi> of <hi>Tongue,</hi> to whom the ſaid Hive of Bees belonged; and by many thouſands of others, whoſe Names are too many to be here incerted.</p>
+            <p>
+               <add> June 25</add> LONDON, Printed by <hi>T.F.</hi> for <hi>Fr. Coles,</hi> in the old Baily at the Lamb. 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168891:2"/>
+            <pb n="1" facs="tcp:168891:2"/>
+            <head>
+               <hi>An Exact and true Relation, OF</hi> The wonderfull Whirlewind at <hi>Northington, Spring<g ref="char:EOLhyphen"/>wood,</hi> and other places in <hi>Leiceſter</hi> ſhire, on Saturday, <hi>June</hi> the <hi>2.</hi> about <hi>4.</hi> of the Clocke in the After-noone, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He <hi>Tueſday</hi> before was a whirle-wind of Joy, the Acclamations of the Nobility, Gentry, and people of the Nation for the Reſtaura<g ref="char:EOLhyphen"/>tion of his M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>jeſty to the Government of his People, being ſuch that it is not to be pa<g ref="char:EOLhyphen"/>ralleld in any Hiſtory of the world.</p>
+            <p>
+               <hi>God ſave the King,</hi> was never breath'd forth in England with ſuch univerſall Shouting; The ayre it ſelf did ſeeme to ſuffer in the Excellence of our Ioyes; It is remarkable, that when God brought his M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>j<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſty unto us, the weather all the time, was f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ire and ſeaſonable, but it pleaſed God wh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ravell was over and the King in his Palace at <hi>White</hi>-Hall, that on the next day wee had Raine, a great b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſſing of Almighty GOD o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Countries, that did ſo much deſire and pray for it.</p>
+            <p>You may remember that not long before, Colonell <hi>Iohn Lambert,</hi> Col. <hi>Iohn Okey,</hi> and ſome other diſcontented per<g ref="char:EOLhyphen"/>ſons of the late Army, did intend to randevouz their mu<g ref="char:EOLhyphen"/>tinous numbers in <hi>Leiceſte<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhire,</hi> and to make thoſe parts the ſeat of the Warre, from whence they threatned like a Whirle wind to m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h towards the City, and to beare downe all before them, but it pleaſed God their violent
+<pb n="2" facs="tcp:168891:3"/> motion was eaſily ſuppreſſed, and the Enemy almoſt as ſoone put to flight as diſcovered, but it ſeemes that there remained ſtill in thoſe parts ſome turbulent Ayre, which had not the leyſure to vent it ſelf untill the Second of this preſent Moneth, which it did then in the moſt prodigious manner as almoſt was ever heard of.</p>
+            <p>It is true, that we have had ſome ſtrange and high winds and Tempeſts heretofore, as about foure years ſince (much about the ſame time of the Day) in the City of <hi>Norwich</hi> and the adjacent Counties, where the Wind was ſo unruly that it laid all things deſolate, the Birds were ſt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fled as they did fly in the Ayre, and did fall downe dead on the ground, And many Beaſts not able to endure the violence of the Tempeſt were found dead next morning. Even the Conies themſelves that were grazing in the fields were overtaken by the fury of the Wind and deprived of life before they could recover their owne holes. There are many thou<g ref="char:EOLhyphen"/>ſands yet living that can witneſſe this truth.</p>
+            <p>Wee are ſenſible alſo of a very violent wind and Tem<g ref="char:EOLhyphen"/>peſt ſome few dayes before the Death of the late great Uſurper, if hee did not indeed dye at the ſame time in the height of it as ſome have affirmed. The Prince of the ayre was then ſo buſie, that there is hardly any place in the whole Nation, where ſome markes were not to bee ſeene of the ruinous effects thereof.</p>
+            <p>But that you will ſay, was at the Death of an Uſurper and a man of Blood.</p>
+            <p>This of which we come now to ſpeake of, is at the Re<g ref="char:EOLhyphen"/>ſtoration of a Mild, Gentle, and a mercifull Prince unto his Nations, whoſe very Enemies are overcome by his Goodneſs, as hee hath overcome his owne ſuff rings by his Innocence and his Patience; and even thoſe now doe ex<g ref="char:EOLhyphen"/>toll his candour and his Piety, who before ſtood in feare of his Power; We are truly to believe that all Ayres of
+<pb n="3" facs="tcp:168891:3"/> Diviſion, and Contention which before for a long time did overcloud the face of the whole Nation, are now blown away with this Tempeſt, which will put a period to the Diſturbance and Confuſion which raged like a Contagi<g ref="char:EOLhyphen"/>ous Fever amongſt us; and that for the time to come we ſhall enjoy all Tranquillity, Peace, Health and happineſs under the Raigne and Government of our moſt gracious Soveraigne, whom GOD long preſerve amongſt us.</p>
+            <p>On Saturday <hi>Iune</hi> the ſecond, about foure of the clocke in the afternoon, the Sun beginning by degrees to be over<g ref="char:EOLhyphen"/>caſt with many clouds, there was a great da<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>kneſs at a Town called <hi>Worthington</hi> in the County of <hi>Leiceſter;</hi> which ſtrook a <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>errour into many of the Inhabi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ants, who were then in the Fields, and made haſt ſome thinking to avoid the vio<g ref="char:EOLhyphen"/>lence of ſome ſudden ſhore, which threatned to powre down upon them; not long afterwards there aroſe agreat &amp; violent Whirlwind, which wraſtling with the clouds, and the aire made a dreadfull noyſe, and ſweeping through the towne un<g ref="char:EOLhyphen"/>tiled many of the houſes, and ruined a great part of the Chappell, The inhabitants hearing the tiles ſo r<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ttle did fly into their houſes, giving ſtrict Command unto their Children not to ſtirre out of doores, but ſome of the bro<g ref="char:EOLhyphen"/>ken ſtones falling within doores, as well as without, they knew not to what place to betake themſelves for protecti<g ref="char:EOLhyphen"/>on, and had the only refuge to ſeeke to Alm<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ghty God up<g ref="char:EOLhyphen"/>on their knees, to preſerve them from ſo great a danger.</p>
+            <p>It pleaſed God, to heare their prayers, and the tempeſt ſuddenly paſſed from thence, to another place diſtant not farre from it called <hi>VVorthington</hi>-H ll, where it exerciſed its former fury, and indeed was farre more violent then it was at the firſt, inſomuch that it not only unt led the Houſe, and unglazed and broke the windowes, but it forced open ſome doores that were locked, and d ſtroyed ſeven B<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yes of Building, and fell bluſtring in upon the houſe
+<pb n="4" facs="tcp:168891:4"/> with ſo much violence, that a great part of it fell downe to the ground, as to this day it is ſtill to be ſeen, the houſe be<g ref="char:EOLhyphen"/>ing torne from the top unto the very foundation of it.</p>
+            <p>Yet behold mercy in this great iudgement, there was a Barne not farre off, which had alſo been ruined and level<g ref="char:EOLhyphen"/>led to the ground by this whirlwind, whiles the ſtones were clattering, and the great beames and ſupporters cracking, there were three people in it of whoſe lives and ſafety, God ſo wonderfully, and ſo miraculouſly did diſpoſe that not one of them was hurt.</p>
+            <p>It was a ſinguler providence of God, that when all was fallen, or falling downe, theſe three men ſhould ſtand up<g ref="char:EOLhyphen"/>right in the midſt of the Ruine, and not ſo much as one of them be hurt.</p>
+            <p>The ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> g<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>acious God who preſerved the three Chil<g ref="char:EOLhyphen"/>dren in the midſt of the fire, that not ſo much as a Haire of their Heads were ſinged, preſerved theſe three old Men, when the S ones, the joyce, and rubbiſh of the falling Barn came all like ſo many Summons to death about their ears.</p>
+            <p>Theſe three Men being delivered from ſo great a dan<g ref="char:EOLhyphen"/>ger did tremble down upon their knees, and the violent wind by the mercy of God having whirled it ſelfe into another corner, the People who began to come out of their Hou<g ref="char:EOLhyphen"/>ſes did find them in that devout Poſture, praiſing of God, and joyned with them in their thankfulneſſe for their de<g ref="char:EOLhyphen"/>liverance.</p>
+            <p>There were many houſes that were torn up from the ve<g ref="char:EOLhyphen"/>ry foundation, yet the goodneſſe of God was ſo remarka<g ref="char:EOLhyphen"/>ble, and had ſuch a Command over the Storme, that no Man, Woman, or Child were killed, only one or two were a little bruiſed, or received ſome little ſcratch by the fall of the Timber, who would imagine that ſo many great Beames and R<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers ſhould fall to the ground, and bring a great Ruine along with them, yet that not ſo much as one
+<pb n="5" facs="tcp:168891:4"/> Chriſtian amongſt ſo many hundreds that were engaged in that great Deſolation ſhould be mortally wounded. The Brains of Dogs were ſcattered up and down, and beſprink<g ref="char:EOLhyphen"/>led many a Poſt: the Horſes were ſtruck down dead in the Stables. It was God alone (to whom be the Honour of it) yet did divert the danger from thoſe who prayed unto him for his Protection.</p>
+            <p>In the mean time the whirlwind roaring and flying from place to place, and ſhowing every where ſome teſtimony, or other of his deviliſh rage, was permitted to come to a place called <hi>Springwood,</hi> which is a Wood belonging to the Right honourable, the Earle of <hi>Stamford.</hi> Here as if it had b en let looſe, it ſhowed all the effects and practiſes of its ou ragious violence and Fury. It is a common ſaying, that things that are lighteſt are alwaies in greateſt dang<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r; and ſo it appeared in this wood, for the whirlwind wr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtling with the faireſt, and the talleſt of the Timbers, did lay many of them upon their backs with their heels higher then their Heads, many it tore up by the roots, and did cleave and ſplit their vaſt bodies, as if they had been labou<g ref="char:EOLhyphen"/>red by ſo many Wedges, it tooke off ſeverall other trees by the middle, and ſnapped them a ſunder. A ſtrange ſight it was on the day following to ſee ſuch a Havock made in a wood without Axe or Hatchet; you would have thought the courteous Whirlwind to repaire the Breaches it had made in the Houſes, and levelled ſo many Timber trees, for the building of them up againe. But one thing is in<g ref="char:EOLhyphen"/>deed yet more wonderfull, and ſhewes that the Whirlwind pertakes with the lightning both in the ſuddenneſs, and the ſubtleneſſe of his effects; for ranting thus (as J have ſaid) in the wood, it tooke off the barkes and ſtripped naked ma<g ref="char:EOLhyphen"/>ny of the trees, which it performed in a moments ſpace, and with ſuch dexterity, and handſomeneſſe that a delibe<g ref="char:EOLhyphen"/>rate labourer could not have taken off the barkes ſo artifi<g ref="char:EOLhyphen"/>cially
+<pb n="6" facs="tcp:168891:5"/> in a whole day. The trees thus ſtripped and plunde<g ref="char:EOLhyphen"/>red by the Whirlwind are ſtill to be ſeene, and having no<g ref="char:EOLhyphen"/>thing of the Barke left to cover the bodies of them, are many of them in a periſhing condition.</p>
+            <p>Having thus ranſact and deſtroyed a great part of the Wood, it whirled to a Village not farre from it called <hi>Tongue,</hi> where it did very much hurt to the ruine of many of the Inhabitants blowing downe trees, and not only unti<g ref="char:EOLhyphen"/>ling, but beating downe many of the Houſe. The Orchards here ſufferd extremly, for many trees w<hi rend="sup">ch</hi> hereofore did bear gallant fruit, and this year were full of hopes, were torne up by the Roots, many of them had their heavy and laden arms pluckt a ſunder from their bodies, and being thus maymed and defective, they are become the pity who were before the Pride of their Owners.</p>
+            <p>One thing is truly admirable, At this Town of <hi>Tongue</hi> there was a Hedge full of linnen cloaths, and not far from it, a Hive of Bees in a garden, the whirlwind ſweeping by with an extraordinary noyſe and violence did take all the linnen, and the Hive of Bees quite away, and being very of<g ref="char:EOLhyphen"/>ten and hourely enquired they can never be heard of ſince.</p>
+            <p>A bay of a Barn was there taken away from betweene two ſeverall Houſes; There was a man that lay aſleepe in the barne, and yet received not the leaſt prejudice.</p>
+            <p>Another houſe was torn almoſt quite to pieces, there being a woman and three ſmall Children in it, who (God ſo directing them) ran under the Mantle-tree, and recei<g ref="char:EOLhyphen"/>ved no hurt at all. It ran afterward two Miles and a halfe doing much hurt all along to the Trees of Fruit, &amp; dwelling Houſes as it paſſed by them. Thus hath God graciouſly been pleaſed to viſit thoſe parts in <hi>Leiceſterſhire,</hi> who as they have great Reaſon to acknowledge hi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Iudgement, ſo they have a greater Obligation laid upon them to applaud, and to be be thankfull for his m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rcies.</p>
+         </div>
+         <trailer>The End.</trailer>
+      </body>
+   </text>
+</TEI>
